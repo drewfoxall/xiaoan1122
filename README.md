@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoan1122
 - 👀 I’m interested in python, machine learning, data science, music, games & more!
-- 🌱 I’m currently learning machine learning, and soon to begin C++
+- 🌱 I’m currently working to build up my skills in Python and C++
 - 💞️ I’m looking to collaborate on anything! I love learning more about the topics I study.
 - 📫 How to reach me: twitter -> xiao666an 
                       
