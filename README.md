@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, machine learning, data science, music, games & more!
 - 🌱 I’m currently working to build up my skills in Python and C++
 - 💞️ I’m looking to collaborate on anything! I love learning more about the topics I study.
-- 📫 How to reach me: twitter -> xiao666an 
+- 📫 Reach out to me through email: andrewfoxall2001@gmail.com
                       
 
 <!---
